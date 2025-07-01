@@ -54,6 +54,14 @@ A data analyst who believes every dataset has a story and I'm here to find it, t
 - 3⭐ Python  
 - Earned **15,000+ Hackos** 
 
+### Contact Me
+
+Currently querying the job market...  
+If you're hiring for data roles, let's run a full join! 
+
+- [**LinkedIn**](https://www.linkedin.com/in/yogesh-s123/)
+- [**yogeshsivakumar18@yahoo.com**](mailto:yogeshsivakumar18@yahoo.com)
+
 ## What You'll Find Here
 
 My GitHub is a collection of projects and research that reflect my passion for data, analytics, and real-world problem solving. Here's a quick breakdown:
