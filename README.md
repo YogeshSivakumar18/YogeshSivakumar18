@@ -6,11 +6,16 @@ A data analyst who believes every dataset has a story and I'm here to find it, t
 
 ### If it's messy, I’ll clean it. If it's noisy, I’ll model it. If it’s meaningless... I’ll make it statistically significant. 😉
 
+**Fun Fact:**
+  "" I use <code>CTEs</code> so often, I’ve started thinking in <code>WITH</code> clauses. My thoughts are just <em>temporary tables</em> waiting to be referenced. ""
+
 ### What I love: 
 - Asking the right questions and letting the data answer them  
 - Making complex things simple (and sometimes making simple things look cool with plots)
 
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
+
 
 ## My Technical Toolkit
 <div align="left">
@@ -43,6 +48,8 @@ A data analyst who believes every dataset has a story and I'm here to find it, t
   
 </div>
 </div>
+
+
 
 ### DataCamp
 - **75,300+ XP** earned  
