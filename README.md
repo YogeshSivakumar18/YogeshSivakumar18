@@ -1,6 +1,6 @@
 Welcome to my GitHub!
 
-# 👋 Hi there! I'm Yogesh Sivakumar (📍**Ireland**)  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Hi.gif" width="90" align="right">
+# 👋 Hi there! I'm Yogesh Sivakumar (📍**Ireland**) 
 
 A data analyst who believes every dataset has a story and I'm here to find it, test it, visualize it, and maybe throw in a regression line for good measure.
 
@@ -44,7 +44,17 @@ A data analyst who believes every dataset has a story and I'm here to find it, t
 </div>
 </div>
 
-### What You'll Find Here
+### DataCamp
+- **75,300+ XP** earned  
+- Ranked **Silver** in my class leaderboard  
+- Completed **15 Certifications**  
+- Finished **11 Hands-on Projects**
+### HackerRank 
+- 4⭐ SQL  
+- 3⭐ Python  
+- Earned **15,000+ Hackos** 
+
+## What You'll Find Here
 
 My GitHub is a collection of projects and research that reflect my passion for data, analytics, and real-world problem solving. Here's a quick breakdown:
 
