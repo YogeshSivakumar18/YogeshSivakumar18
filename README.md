@@ -49,7 +49,7 @@ A data analyst who believes every dataset has a story and I'm here to find it, t
 - Ranked **Silver** in my class leaderboard  
 - Completed **15 Certifications**  
 - Finished **11 Hands-on Projects**
-### HackerRank 
+### HackerRank
 - 4⭐ SQL  
 - 3⭐ Python  
 - Earned **15,000+ Hackos** 
