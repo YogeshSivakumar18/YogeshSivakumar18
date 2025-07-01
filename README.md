@@ -18,7 +18,7 @@
   <img width="12"/>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" height="40" alt="Tableau"/>
   <img width="12"/>
-  <img src="https://static-00.iconduck.com/assets.00/databricks-icon-512x512-b2q59zlo.png" height="40" alt="Databricks" />
+  <img src="Databricks_Logo.png" height="40" alt="Databricks" />
   <img width="12"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" height="40" alt="Matplotlib"/>
   <img width="12"/>
