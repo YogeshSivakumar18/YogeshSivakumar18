@@ -51,11 +51,11 @@ A data analyst who believes every dataset has a story and I'm here to find it, t
 
 
 
-### DataCamp
+### DataCamp [(Profile-Link)](https://www.datacamp.com/portfolio/24150029)
 - **75,300+ XP** earned  
 - Ranked **Silver** in my class leaderboard  
-- Completed **15 Certifications**  
-- Finished **11 Hands-on Projects**
+- Completed **15+ Certifications**  
+- Finished **10+ Hands-on Projects**
 ### HackerRank
 - 4⭐ SQL  
 - 3⭐ Python  
