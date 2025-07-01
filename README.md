@@ -13,10 +13,6 @@ A data analyst who believes every dataset has a story and I'm here to find it, t
 - Asking the right questions and letting the data answer them  
 - Making complex things simple (and sometimes making simple things look cool with plots)
 
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-
-
-
 ## My Technical Toolkit
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
@@ -49,7 +45,7 @@ A data analyst who believes every dataset has a story and I'm here to find it, t
 </div>
 </div>
 
-
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 ### DataCamp [(Profile-Link)](https://www.datacamp.com/portfolio/24150029)
 - **75,300+ XP** earned  
