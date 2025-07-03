@@ -73,6 +73,5 @@ My GitHub is a collection of projects and research that reflect my passion for d
 - **Big Data Analytics**  
 - **Statistical Research & Reports**  
 - **Dashboards & Visualizations**  
-- **Explorations in AI & GenAI**  
 
 Each repo includes a detailed README with the problem statement, tools used, results, and (sometimes) fun facts about the journey.
