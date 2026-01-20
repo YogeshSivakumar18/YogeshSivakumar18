@@ -2,7 +2,7 @@ Welcome to my GitHub!
 
 # 👋 Hi there! I'm Yogesh Sivakumar (📍**Ireland**) 
 
-A data professional who believes every dataset has a story and I'm here to find it, test it, visualize it, and maybe throw in a regression line for good measure.
+A data and ICT professional who believes every dataset has a story and I'm here to find it, test it, visualize it, and maybe throw in a regression line for good measure.
 
 ### If it's messy, I’ll clean it. If it's noisy, I’ll model it. If it’s meaningless... I’ll make it statistically significant. 😉
 
