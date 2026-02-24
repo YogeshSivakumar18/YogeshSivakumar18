@@ -9,7 +9,7 @@ A data and ICT professional who believes every dataset has a story and I'm here 
 **Fun Fact:**
   "" I use <code>CTEs</code> so often, I’ve started thinking in <code>WITH</code> clauses. My thoughts are just <em>temporary tables</em> waiting to be referenced. ""
 
-### What I love: 
+### What I Do: 
 - Asking the right questions and letting the data answer them  
 - Making complex things simple (and sometimes making simple things look cool with plots)
 
