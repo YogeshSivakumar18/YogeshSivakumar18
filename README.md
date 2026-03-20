@@ -63,6 +63,9 @@ Because in the end, good data engineering isn’t just about moving data , it’
 - Ranked **Silver** in my class leaderboard  
 - Completed **15+ Certifications**  
 - Finished **10+ Hands-on Projects**
+### Microsoft Badges
+- **21 Badges** [ADF, Azure SQL DB, Fabric, and more...]
+- Currently Focusing on Microsoft Fabric
 ### HackerRank
 - 4⭐ SQL  
 - 3⭐ Python  
@@ -80,6 +83,7 @@ If you're hiring for data roles, let's run a full join!
 
 My GitHub is a collection of projects and research that reflect my passion for data, analytics, and real-world problem solving. Here's a quick breakdown:
 
+- **Data Engineering**
 - **Machine Learning Projects**  
 - **Big Data Analytics**  
 - **Statistical Research & Reports**  
