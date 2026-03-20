@@ -2,16 +2,27 @@ Welcome to my GitHub!
 
 # 👋 Hi there! I'm Yogesh Sivakumar (📍**Ireland**) 
 
-A Software and Data Ops professional who believes every dataset has a story and I'm here to find it, test it, visualize it, and maybe throw in a regression line for good measure.
+A Software and Data Ops professional who believes every dataset has a story. I treat every dataset as a pipeline waiting to be optimized, from ingestion to transformation to consumption.
 
-### If it's messy, I’ll clean it. If it's noisy, I’ll model it. If it’s meaningless... I’ll make it statistically significant. 😉
+I design data workflows that don’t just move data, but refine, structure, and elevate it into decision-ready assets.
+
+🧠 How I Think
+
+If it’s messy → I normalize, partition, and index it
+
+If it’s noisy → I model, aggregate, and validate it
+
+If it’s slow → I optimize execution plans and rewrite it
+
+If it’s unclear → I let SQL ask better questions
 
 **Fun Fact:**
-  "" I use <code>CTEs</code> so often, I’ve started thinking in <code>WITH</code> clauses. My thoughts are just <em>temporary tables</em> waiting to be referenced. ""
+  "" I use CTEs so often that I naturally think in WITH clauses :)
+breaking problems into logical steps, chaining them together, and only materializing results when it truly matters. ""
 
-### What I Do: 
-- Asking the right questions and letting the data answer them  
-- Making complex things simple (and sometimes making simple things look cool with plots)
+### Clean pipelines. Efficient queries. Meaningful data.
+
+Because in the end, good data engineering isn’t just about moving data , it’s about making it usable, trustworthy, and fast.
 
 ## My Technical Toolkit
 <div align="left">
