@@ -64,7 +64,7 @@ Because in the end, good data engineering isn’t just about moving data , it’
 - Completed **15+ Certifications**  
 - Finished **10+ Hands-on Projects**
 ### Microsoft Badges
-- **21 Badges** [ADF, Azure SQL DB, Fabric, and more...]
+- **24 Badges** [ADF, Azure SQL DB, Fabric, and more...]
 - Currently Focusing on Microsoft Fabric
 ### HackerRank
 - 4⭐ SQL  
