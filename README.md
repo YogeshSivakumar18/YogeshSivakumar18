@@ -4,25 +4,13 @@ Welcome to my GitHub!
 
 A Software and Data Ops professional who believes every dataset has a story. I treat every dataset as a pipeline waiting to be optimized, from ingestion to transformation to consumption.
 
-I design data workflows that don’t just move data, but refine, structure, and elevate it into decision-ready assets.
+I design application workflows that don’t just move data, but refine, structure, and elevate it into decision-ready assets.
 
-🧠 How I Think
-
-If it’s messy → I normalize, partition, and index it
-
-If it’s noisy → I model, aggregate, and validate it
-
-If it’s slow → I optimize execution plans and rewrite it
-
-If it’s unclear → I let SQL ask better questions
 
 **Fun Fact:**
   "" I use CTEs so often that I naturally think in WITH clauses :)
 breaking problems into logical steps, chaining them together, and only materializing results when it truly matters. ""
 
-### Clean pipelines. Efficient queries. Meaningful data.
-
-Because in the end, good data engineering isn’t just about moving data , it’s about making it usable, trustworthy, and fast.
 
 ## My Technical Toolkit
 <div align="left">
@@ -67,6 +55,7 @@ Because in the end, good data engineering isn’t just about moving data , it’
 - **24 Badges** [ADF, Azure SQL DB, Fabric, and more...]
 - Currently Focusing on Microsoft Fabric
 ### HackerRank
+- 3⭐ Java
 - 4⭐ SQL  
 - 3⭐ Python  
 - Earned **15,000+ Hackos** 
@@ -74,7 +63,7 @@ Because in the end, good data engineering isn’t just about moving data , it’
 ### Contact Me
 
 Currently querying the job market...  
-If you're hiring for data roles, let's run a full join! 
+If you're hiring for Software/data engineer roles, let's run a full join! 
 
 - [**LinkedIn**](https://www.linkedin.com/in/yogesh-s123/)
 - [**yogeshsivakumar18@yahoo.com**](mailto:yogeshsivakumar18@yahoo.com)
