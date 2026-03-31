@@ -74,6 +74,7 @@ If you're hiring for Software/data engineer roles, let's run a full join!
 
 My GitHub is a collection of projects and research that reflect my passion for data, analytics, and real-world problem solving. Here's a quick breakdown:
 
+- **Application Development Projects**
 - **Data Engineering**
 - **Machine Learning Projects**  
 - **Big Data Analytics**  
