@@ -2,7 +2,7 @@ Welcome to my GitHub!
 
 # 👋 Hi there! I'm Yogesh Sivakumar (📍**Ireland**) 
 
-A Software and Data Ops professional who believes every dataset has a story. I treat every dataset as a pipeline waiting to be optimized, from ingestion to transformation to consumption.
+A Software and Data Engineering professional who believes every dataset has a story. I treat every dataset as a pipeline waiting to be optimized, from ingestion to transformation to consumption.
 
 I design application workflows that don’t just move data, but refine, structure, and elevate it into decision-ready assets.
 
