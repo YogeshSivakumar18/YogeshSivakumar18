@@ -38,7 +38,7 @@ breaking problems into logical steps, chaining them together, and only materiali
   <img width="12"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="Seaborn" title="Seaborn"/>
   <img width="12"/>
-  <img src="https://img.icons8.com/color/48/000000/AWS.png" height="40" alt="GCP" title="GCP"/>
+  <img src="https://img.icons8.com/color/48/000000/AWS.png" height="40" alt="GCP" title="AWS"/>
   <img width="12"/>
   <img src="https://img.icons8.com/fluency/48/azure-1.png" height="40" alt="Azure" title="Azure"/>
   <img width="12"/>
